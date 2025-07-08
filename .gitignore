@@ -1,0 +1,11 @@
+package-lock.json
+node_modules/
+consoleSQL.ts
+
+generated/
+build/
+dist/
+
+certificate.crt
+private.key
+.env
